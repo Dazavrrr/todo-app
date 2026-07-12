@@ -92,12 +92,6 @@ src/
 
 ---
 
-## 📸 Preview
-
-<img src="./public/preview.png" alt="Todo App Preview" width="900"/>
-
----
-
 ## 👤 Author
 
 **Daria Melnyk**
